@@ -10,18 +10,19 @@ layout: default
 ## The Team
 
 **Project Lead:**
-**Mike Katell, University of Washington Information School**
+Mike Katell, University of Washington Information School
 **Community Engagement Lead:**
-**Meg Young, University of Washington Information School**
+Meg Young, University of Washington Information School
 **Faculty Advisor:**
-**Peaks Krafft, Oxford Information Institute**
+Peaks Krafft, Oxford Information Institute
 
 
 **Data Science Lead:**
-**Bernease Herman**
+Bernease Herman
 
 **DSSG Fellows:**
-**Corinne Bintz**
-**Aaron Tam**
-
+Corinne Bintz
+Aaron Tam
+Vivian Guetler
+Daniella Raz
 # Abstract or executive summary
