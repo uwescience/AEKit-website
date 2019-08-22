@@ -47,9 +47,9 @@ Bernease Herman joins the eScience Institute as a data scientist. Bernease was m
 
 Roles or Contributions (optional, only if it makes sense to your team)
 
-Where readers can find more details about the project, e.g. code, data, reports, etc.
+We are working with our collaborators, ACLU, on a distribution plan for the Algorithmic Equity Toolkit.
 
 Acknowledgements
 We would like to thank all the sponsors of the DSSG program and our project, including the Alfred P. Sloan Foundation, the Washington Research Foundation, University of Washington eScience Institute, the Gordon and Betty Moore Foundation, the University of Washington Tech Policy Lab, and the Cascadia Urban Analytics Cooperative.
 
-We would also like to thank the stakeholders central to our project, including the American Civil Liberties Union, the Council on American Islamic Relations, and Densho. 
+We would also like to thank the stakeholders central to our project, including the American Civil Liberties Union, the Council on American Islamic Relations, and Densho.
