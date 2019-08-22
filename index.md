@@ -11,8 +11,10 @@ layout: default
 
 **Project Lead:**
 Mike Katell, University of Washington Information School
+
 **Community Engagement Lead:**
 Meg Young, University of Washington Information School
+
 **Faculty Advisor:**
 Peaks Krafft, Oxford Information Institute
 
@@ -21,8 +23,5 @@ Peaks Krafft, Oxford Information Institute
 Bernease Herman
 
 **DSSG Fellows:**
-Corinne Bintz
-Aaron Tam
-Vivian Guetler
-Daniella Raz
+Corinne Bintz, Aaron Tam, Vivian Guetler, Daniella Raz
 # Abstract or executive summary
