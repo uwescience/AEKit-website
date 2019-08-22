@@ -31,5 +31,8 @@ We hope that with this toolkit civil rights activists can distinguish between su
 
 **Outcomes**
 
-How have your stakeholders responded to your deliverables?
-What impact has your project had, or do you anticipate it having?
+ACLU, WA as the primary stakeholder has provided connections to other community organizations such as Densho, CAIR who are members of the Tech Fairness Coalition. The organizations have provided insights, feedback and suggestions on the toolkit design and how to make it accessible for non-technical community members. The organizations have expressed interest in using the toolkit and sharing it on their websites and social media accounts.
+
+The primary goal of this project is to empower community members with a toolkit that helps them ask questions about algorithmic technologies and biases to their elected officials. In addition, we hope the toolkit will help inform local and national technology policy changes and lead to algorithmic equity.
+
+The City of Seattle and Washington State are both world leaders in technology policy. The Washington State House has drafted a tech fairness bill (HB 1655) a first step in the direction of broad algorithmic regulation. However, previous research indicates that even expert policymakers are not prepared to understand the particular risks of algorithmic systems as such. We anticipate the toolkit to be adopted both within government and by policy advocates such as the ACLU to strengthen HB 1655 and other existing, ongoing, and future regulatory efforts.
