@@ -16,8 +16,34 @@ We used Open Face, free and Open Source facial recognition repository, as our mo
 
 **Processes**
 
-What does your workflow or pipeline look like?
-What steps did you follow?
+Three processes guided our design of the toolkit:
+
+A. Preliminary discussions with our key stakeholders, community organizations in Seattle impacted by the use of surveillance technologies in their communities. To understand the civil rights concerns and how the Algorithmic Equity Toolkit could be developed, we planned stakeholder meetings and interviews within the first weeks of the project.
+
+Our stakeholders included:
+
+The American Civil Liberties Union (ACLU) of Washington to discuss about their work in regards to algorithmic systems and potential harms of these technologies. The ACLU-WA through the Tech Fairness Coalition has been at the forefront in advocating for transparency and accountability from the Seattle government when adopting surveillance technologies.
+Densho works to preserve and share the history of the WWII incarceration of Japanese Americans. We met with Densho to understand their role in tech fairness advocacy and how the AEKit would be beneficial for their community members. The concerns raised by Densho are finding ways to educate the non-tech experts in the community about algorithmic bias and systems.
+The Council on American Islamic Relations’ (CAIR) mission is to enhance understanding of Islam, protect civil rights, promote justice, and empower American Muslims. We met with CAIR-WA to understand the effects of surveillance technologies on their communities, and the role of the organization within the tech fairness policy advocacy. CAIR has raised concerns about how surveillance technologies have been used to unfairly track their Muslim-American community members.
+Our stakeholder meetings with the ACLU, Densho, and CAIR allowed us to refine the audience and objectives for the toolkit. Based on feedback from our first meeting with the ACLU, we narrowed our toolkit’s audience to community members. Our meetings with Densho and CAIR illuminated the interest in surveillance technology specifically, which subsequently affected the focus of our toolkit to be on algorithmic surveillance systems, including facial recognition software and smart meters. We used an audio-recorder and took notes at all of our stakeholder meetings. After our CAIR and ACLU meetings, we wrote personal reflection memos on the major points of the meeting. We then discussed as a group how the feedback from the meeting may shape our toolkit. We noted follow-up information and procedures at the conclusion of the meeting with each stakeholder.
+
+B. Research and discussions of academic papers on algorithmic bias, fairness, and privacy ethics.
+
+We read a diverse array of literature and discussed it as a group. We reviewed Accountability and Transparency journal articles regarding the definitions of artificial intelligence and the potential biases that they hold to inform the definitions and terminology used in the toolkit. We also drew inspiration on questions to ask and concepts to cover from other algorithmic equity toolkits such as the AI Now, AI Blindspot, and GovEx Toolkit. We found that many of these toolkits were more specifically catered for technical audiences. We also read literature on the issues  of specific technologies like facial recognition and smart metering.  We reviewed the bill language, bill reports, and amendments for Washington state legislation regarding automated decision systems like the Seattle Surveillance Ordinance, House Bill 1654, and House Bill 1655. The bill analysis and report for HB 1654 and 1655 provided background about how facial recognition and automated decision-making systems currently have no Washington state or federal legislation regulating government use of automated decision systems. It also provided information about the sponsors, committee activity, public testimony, and highlights of changes made in the substitute bills. Reading these documents provided us with background and context regarding facial recognition and automated decision-making systems in Washington state, and it also gave us insight into the politics surrounding these bills. We were able to use these government bills to also understand the positioning of different stakeholder groups and the framing of algorithmic equity issues by reading the raw bill language. We also noticed how the intent and scope of some of the washington state bills weakened over time- indicating a possible lack of awareness or concern from the public and decision makers about unregulated automated decision systems.
+
+C. Prototyping and usability evaluations from stakeholders
+
+Designing drafts and iterating:
+In creating  the toolkit, we followed a weekly prototyping schedule. We submitted new prototypes by the end of the work day on Fridays, received feedback from our leadership early in the following work week, and then incorporated the feedback and new design ideas into the next prototype.
+
+Evaluations with stakeholders + Diverse Voices, data scientists:
+To test and evaluate the usefulness and clarity of the toolkit we collected feedback from civil rights organizations like the ACLU, CAIR, and Densho once again as well as civil rights activists during the development process.. We designed a survey that tested the baseline understanding of civil rights advocates on automated decision systems and surveillance technologies. We then asked them to complete a survey after reviewing our Algorithmic Equity Toolkit to test whether it improved their understanding of automated decision systems. We also asked them for additional feedback and identified specific pain points in the toolkit through the survey and through follow-up meetings.
+
+We also tested and evaluated the accuracy of the algorithmic definitions and representations of how they work in the surveillance and automated decision system identification portion of the toolkit by meeting with data scientists. This feedback was received from data scientists by meeting with them in-person and discussing confusing or inaccurate concepts and also by receiving written feedback.
+
+The toolkit was also evaluated by 3 panels of community stakeholders using
+the Diverse Voices methods developed by UW Tech Policy Lab. Our diverse voices panels solicited experiential feedback from racial and social justice activists, immigrations experts, and advocates of justice-involved individuals.
+
 
 **Analyses**
 
