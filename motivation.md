@@ -5,8 +5,14 @@ title: Motivation
 
 **Questions**
 
-What question(s) are you answering?
-What need are you filling?
+The project seeks to answer questions around algorithmic ethical issues and concerns by designing an Algorithmic Equity Toolkit. The toolkit aims to help civil rights advocates identify and audit algorithmic processes and systems of surveillance tools and Automated Decision Systems  in the public sector.
+
+Questions we ask are: what ethical issues should civil rights advocates be concerned with in regards to surveillance and automated decision systems? How are algorithmic systems reinforcing bias and discrimination? What do community members and non-tech experts understand about algorithmic tools and their impacts? What should they know about surveillance and automated decision systems to identify them and know how they work?
+
+The toolkit includes three components 1) a surveillance and automated decision system identification guide that helps civil rights advocates identify them and understand how they work, 2) a questionnaire of red flags for surfacing the social context of a given system, its technical failure modes (i.e., potential for not working correctly, such as false positives), and its social failure modes (i.e. its potential for discrimination when working correctly); and (3) an interactive web demo that illustrates the underlying mechanics, inaccuracies, and potential harms of facial recognition technology.
+
+The project fills a critical gap in non-expert understanding of complex and proprietary algorithmic systems and seeks to help community members ask pointed questions about algorithmic technologies, for their own understanding and to elected officials.
+
 
 **Background**
 
