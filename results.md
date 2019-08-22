@@ -18,13 +18,12 @@ Our findings of differences in similarity scores along the lines of skin tone ar
 
 **Deliverables**
 
-We designed an Algorithmic Equity Toolkit, a set of tools for identifying and auditing algorithmic processes used in the public sector, especially of automated decision-making and predictive technologies. The toolkit has three components:
+We designed an Algorithmic Equity Toolkit, a set of three tools for identifying and auditing algorithmic processes used in the public sector, especially regarding ADS. The toolkit has three components:
 Surveillance and ADS Identification Guide, for distinguishing surveillance and ADS’s and their different functions. This will help civil rights advocates ask the right questions depending on the technology type.
 
 Questionnaire, for surfacing the social context of a given system, its technical failure modes (i.e., potential for not working correctly, such as false positives), and its social failure modes (i.e. its potential for discrimination when working correctly). The questionnaire is a list of sample questions that users can use to inquire about the potential harms of surveillance or ADS technologies.
 
-An interactive facial recognition false positive web demo, that illustrates the underlying harms and mechanics of facial recognition technology, one of the technologies in the questionnaire. Our interactive demo illustrates false positives, disparities in accuracy along lines of race and gender, and the potential harms with choosing too low a threshold to determine matches, resulting in false positives. Our demo aims to illustrate an algorithmic harm in an accessible way and involves interactivity for an engaging user experience.
-
+An interactive facial recognition false positive web demo that illustrates the underlying harms and mechanics of facial recognition technology, one of the technologies in the questionnaire. Our interactive demo illustrates false positives, disparities in accuracy along lines of race and gender, and the potential harms with choosing too low a threshold to determine matches, resulting in false positives. Our demo aims to illustrate an algorithmic harm in an accessible way and involves interactivity for an engaging user experience.
 
 The primary users of the Algorithmic Equity Toolkit will be community members, including civil rights advocacy and grassroots organizations and anyone interested in algorithmic equity. We hope community members will be better empowered with this toolkit to hold government agencies accountable for the technologies they implement in their communities. The toolkit can be used when engaging with policymakers, government representatives, or when users want to learn more about surveillance and ADS technologies and their potential harms.
 
