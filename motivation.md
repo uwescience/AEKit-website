@@ -25,9 +25,17 @@ Recent ethnographic research with the City of Seattle affirms that even expert t
 **Stakeholders**
 Stakeholder engagement was a principal component to the development of our toolkit. The American Civil Liberties Union and the members of the Community Centered Tech Coalition, specifically Densho and the Council on American Islamic Relations (CAIR), are the stakeholders central to our project. Densho works to preserve and share the history of the WWII incarceration of Japanese Americans, and CAIR's mission is to enhance understanding of Islam, protect civil rights, promote justice, and empower American Muslims. We engaged with them throughout the course of the project. We started with face-to-face meetings to gain insight into their mission and work with tech fairness policy. In our preliminary meetings we gained  a sense of the methods in which they do their work to guide our design process of the prototypes for our toolkit elements. We further engaged with them through an iterative evaluation process throughout the project to receive feedback on the Algorithmic Equity Toolkit. We took into consideration the concerns they expressed for the impact that algorithmic bias has on their community of interest and strived to strike a balance between addressing their specific needs and keeping the toolkit applicable to the general community.
 
-We envision our stakeholders using our toolkit to better inform their activism efforts in regards to tech fairness policy. We foresee community members and organization leaders using the toolkit to aid their understanding of the different functions of government technologies and the potential biases found in the use of algorithmic systems in both the City of Seattle and society at large. 
+We envision our stakeholders using our toolkit to better inform their activism efforts in regards to tech fairness policy. We foresee community members and organization leaders using the toolkit to aid their understanding of the different functions of government technologies and the potential biases found in the use of algorithmic systems in both the City of Seattle and society at large.
 
 **Ethics**
 
-What are the ethical questions you considered as a team?
-How are you addressing them in your work?
+Messaging
+Algorithmic harm is an issue reflective of systemic and structural inequality. We do not want the messaging of our tool to focus solely on the problem of technical failure modes in automated decision systems. Our concern is broader - is it ethical to increase accuracy, diversify datasets, and thus allow facial recognition software to be even better at identifying marginalized faces? Does facial recognition software have a place in our society at all, whether it is in the criminal justice space or elsewhere?
+
+Stakeholders
+Our aim is to incorporate as much input as possible from our stakeholders without customizing the tool too much to one specific group. One of our criticisms of existing tools is that they have not gone far enough to engage with stakeholder perspectives beyond academics and industry representatives. As a response to this, we have chosen to focus heavily on the needs of underrepresented populations. However, given both the quantity and diversity of community stakeholders, creating a tool to service such a breadth of users presents a challenge. Thus, one ethical consideration is whether to design this tool with all, several, or one stakeholder(s) in mind.
+
+How we address ethical concerns?
+Connecting with diverse stakeholders and a coalition of community groups, as well as co-designing with the ACLU of Washington and other stakeholders to ensure our prototype and final product addresses stakeholders’ concerns.
+Be clear about not only the potential reach and benefits of this demo, but its limitations as well.
+Diverse Voices Training: elicit detailed feedback about our toolkit from underrepresented populations.
