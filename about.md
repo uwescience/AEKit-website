@@ -45,8 +45,6 @@ Meg is the community engagement lead for the Algorithmic Equity Toolkit. She is 
 **Bernease Herman, Data Science Lead: Data Science Fellow, Research Staff, eScience Institute, University of Washington:**
 Bernease Herman joins the eScience Institute as a data scientist. Bernease was most recently a software development engineer at Amazon, where she collaborated with operations research scientists and statisticians to add economic constraints and buying models to Amazon’s Inventory Planning and Control system. Previous to Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. Bernease earned her B.S. in Mathematics and Statistics from the University of Michigan.
 
-Roles or Contributions (optional, only if it makes sense to your team)
-
 We are working with our collaborators, ACLU, on a distribution plan for the Algorithmic Equity Toolkit.
 
 Acknowledgements
