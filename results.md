@@ -4,13 +4,14 @@ title: Results
 ---
 
 **Findings**
+Usability Research on the Algorithmic Equity Toolkit:
 
 Participatory Design on the Algorithmic Equity Toolkit
-We had CAIR, Densho, the ACLU, and grassroots civil rights activists complete a survey to test their baseline knowledge, understanding, concerns, and comfort regarding ADS’s, and then we had them complete it afterwards. 
+We had CAIR, Densho, the ACLU, and grassroots civil rights activists complete a survey to test their baseline knowledge, understanding, concerns, and comfort regarding ADS’s, and then we had them complete it afterwards.
 
 ![SurveyQ1](toolkit_survey_img1.png)
 
-We found that there was a wide diversity in the baseline understanding regarding automated decision system (ADS) technologies. A third of the 9 people surveyed said they had a limited understanding of ADS technologies, another third said they had a basic understanding, and another third said they had an advanced understanding. The leaders of civil rights organizations were the only ones with an advanced understanding of ADS technologies. Two-thirds of civil rights organizers had a basic understanding of ADS technologies, and two-thirds of civil rights activists had a limited understanding of them. 
+We found that there was a wide diversity in the baseline understanding regarding automated decision system (ADS) technologies. A third of the 9 people surveyed said they had a limited understanding of ADS technologies, another third said they had a basic understanding, and another third said they had an advanced understanding. The leaders of civil rights organizations were the only ones with an advanced understanding of ADS technologies. Two-thirds of civil rights organizers had a basic understanding of ADS technologies, and two-thirds of civil rights activists had a limited understanding of them.
 
 ![SurveyQ2](toolkit_survey_img2.png)
 
@@ -25,12 +26,12 @@ Most of the people surveyed said that the toolkit significantly or substantially
 ![SurveyQ6](toolkit_survey_img7.png)
 ![SurveyQ7](toolkit_survey_img8.png)
 
-The feedback we received from civil rights advocates demonstrated that our toolkit needed to improve in many ways to increase its clarity. The users were also asked about how easily they could understand how the government technology examples used in the surveillance and ADS identification guide work. The vast majority responded with a 3 out of 5 with 5 being extremely easy to understand. Thus, we made many adjustments such as labeling the icons, rearranging concepts, and redefining terms in the identification guide. We also received comments through the survey that asked about laws currently regulating artificial intelligence, so we made sure to include that information in our toolkit. Through our follow-up meetings, we identified specific pain points and some suggestions for how to improve these lagging areas in our toolkit. A lot of the surveyed civil rights advocates expressed confusion about the use-case scenario for the toolkit.  This feedback demonstrated that the toolkit had to improve in clarity in not only the concepts but also the instructions on how to actually use the toolkit. When developing the toolkit we had made implicit assumptions about how the toolkit would be used and the use-case scenario it would be situated in without being explicit about these assumptions within the actual toolkit. The usabiliInteractive Web 
+The feedback we received from civil rights advocates demonstrated that our toolkit needed to improve in many ways to increase its clarity. The users were also asked about how easily they could understand how the government technology examples used in the surveillance and ADS identification guide work. The vast majority responded with a 3 out of 5 with 5 being extremely easy to understand. Thus, we made many adjustments such as labeling the icons, rearranging concepts, and redefining terms in the identification guide. We also received comments through the survey that asked about laws currently regulating artificial intelligence, so we made sure to include that information in our toolkit. Through our follow-up meetings, we identified specific pain points and some suggestions for how to improve these lagging areas in our toolkit. A lot of the surveyed civil rights advocates expressed confusion about the use-case scenario for the toolkit.  This feedback demonstrated that the toolkit had to improve in clarity in not only the concepts but also the instructions on how to actually use the toolkit. When developing the toolkit we had made implicit assumptions about how the toolkit would be used and the use-case scenario it would be situated in without being explicit about these assumptions within the actual toolkit. The usabiliInteractive Web
 
 Interactive Web Demo:
 
 Our analysis involved running ten celebrity photos in Open Face’s model using a database of 60 celebrity photos collected from Labeled Faces in the Wild and Google image searches. We then selected the top 8 closest images for each of the nine celebrity photos to include in our demo. Of all the ten celebrity photos, the minimum similarity score of the top 8 closest images was 0.15, between a photo of Aaron Peirsol and Ai Sugiyama, and the maximum similarity score was 1.384, between two different photos of LeBron James. Overall, celebrities with lighter skin tones had lower similarity scores than celebrities with darker skin tones.
-Our findings of differences in similarity scores along the lines of skin tone are consistent with the literature surrounding facial recognition software and accuracy according to skin tone (Buolamwini and Gebru 2018). Buolamwini and Gebru (2018)’s work demonstrates that increased diversity in the training set can increase a model’s accuracy for intersectional identities, such as  for people and women of color. OpenFace trains its model on 13 public and 1 private dataset. The scope and time limitations of our project prevented us from exploring the breakdown of these datasets in regards to skin tone and gender. Future work could explore this breakdown to determine if lack of diversity in the training datasets may be responsible for higher similarity scores for people of color in our demo analysis. 
+Our findings of differences in similarity scores along the lines of skin tone are consistent with the literature surrounding facial recognition software and accuracy according to skin tone (Buolamwini and Gebru 2018). Buolamwini and Gebru (2018)’s work demonstrates that increased diversity in the training set can increase a model’s accuracy for intersectional identities, such as  for people and women of color. OpenFace trains its model on 13 public and 1 private dataset. The scope and time limitations of our project prevented us from exploring the breakdown of these datasets in regards to skin tone and gender. Future work could explore this breakdown to determine if lack of diversity in the training datasets may be responsible for higher similarity scores for people of color in our demo analysis.
 
 Diverse Voices:
 
@@ -59,7 +60,7 @@ Step 2: Questionnaire
 Use the questionnaire to inquire about the potential harms of surveillance or ADS technologies when engaging with policymakers and other public officials.
 
 Step 3: Interactive facial recognition web demo
-Click on [link]  to access the interactive demo on facial recognition tool that illustrates some of the harms of the technology. 
+Use the interactive demo on facial recognition tool to explore how facial recognition technology matches faces to identities based on setting a minimum similarity score, which we refer to as the threshold. The demo will also helps  explain false positives, illustrate bias against people, especially women, of color, and draw attention to the philosophical problems with employing facial recognition technology, regardless of accuracy rates.
 
 ACLU, WA as the primary stakeholder has provided connections to other community organizations such as Densho, CAIR who are members of the Tech Fairness Coalition. The organizations have provided insights, feedback and suggestions on the toolkit design and how to make it accessible for non-technical community members. The organizations have expressed interest in using the toolkit and sharing it on their websites and social media accounts.
 
@@ -67,7 +68,7 @@ ACLU, WA as the primary stakeholder has provided connections to other community 
 
 The primary goal of this project is to empower community members with a toolkit that helps them ask questions about algorithmic technologies and biases to their elected officials. In addition, we hope the toolkit will help inform local and national technology policy changes and lead to algorithmic equity.
 
-The City of Seattle and Washington State are both world leaders in technology policy. The Washington State House has drafted a tech fairness bill (HB 1655) a first step in the direction of broad algorithmic regulation. However, previous research indicates that even expert policymakers are not prepared to understand the particular risks of algorithmic systems as such. We anticipate the toolkit to be adopted both within government and by policy advocates such as the ACLU to strengthen HB 1655 and other existing, ongoing, and future regulatory efforts. 
+The City of Seattle and Washington State are both world leaders in technology policy. The Washington State House has drafted a tech fairness bill (HB 1655) a first step in the direction of broad algorithmic regulation. However, previous research indicates that even expert policymakers are not prepared to understand the particular risks of algorithmic systems as such. We anticipate the toolkit to be adopted both within government and by policy advocates such as the ACLU to strengthen HB 1655 and other existing, ongoing, and future regulatory efforts.
 
 **References**
 
